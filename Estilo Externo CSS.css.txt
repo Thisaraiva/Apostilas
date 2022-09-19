@@ -1,6 +1,12 @@
-/*Questão 01. Criar uma regra CSS para formatação de parágrafo abaixo com as seguintes configurações: • Cor da fonte Amarela • Espessura da fonte: 900 • Estilo Itálico • Tipo de fonte Arial • Cor de fundo verde Para a regra acima você deverá criá-la utilizando as três formas vistas em aula*/
+/*Questão 01. Criar uma regra CSS para formatação de parágrafo abaixo 
+com as seguintes configurações: 
+• Cor da fonte Amarela 
+• Espessura da fonte: 900 
+• Estilo Itálico 
+• Tipo de fonte Arial 
+• Cor de fundo verde 
+Para a regra acima você deverá criá-la utilizando as três formas vistas em aula*/
 
-<style>
 P {
 Font-color: yellow;
 Font-weight: 900;
@@ -8,4 +14,4 @@ Font-style: italic;
 Font-type: Arial;
 Background-color: green;
 }
-</style>
+
